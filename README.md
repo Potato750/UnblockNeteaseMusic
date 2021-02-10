@@ -15,13 +15,13 @@
 使用 npx
 
 ```
-$ npx @nondanee/unblockneteasemusic
+$ npx @potato750/unblockneteasemusic
 ```
 
 或使用 Docker
 
 ```
-$ docker run nondanee/unblockneteasemusic
+$ docker run potato750/unblockneteasemusic
 ```
 
 ```
@@ -104,11 +104,11 @@ PAC 自动代理脚本地址 `http://<Server Name:PORT>/proxy.pac`
 作为依赖库使用
 
 ```
-$ npm install @nondanee/unblockneteasemusic
+$ npm install @potato750/unblockneteasemusic
 ```
 
 ```javascript
-const match = require('@nondanee/unblockneteasemusic')
+const match = require('@potato750/unblockneteasemusic')
 
 /** 
  * Set proxy or hosts if needed
