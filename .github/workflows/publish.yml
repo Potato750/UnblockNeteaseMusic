@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       REPOSITORY: unblockneteasemusic
-      DOCKER_USERNAME: potato750
+      DOCKER_USERNAME: leepotato
       DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
     steps:
       -
